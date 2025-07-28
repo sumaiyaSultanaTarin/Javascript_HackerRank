@@ -1,11 +1,12 @@
-🚀 Javascript_HackerRank
+# 🚀 Javascript_HackerRank
 
 This is my personal repository where I practice JavaScript by solving algorithm problems from **HackerRank**.
 
 It's a work in progress — I’ll keep adding more solutions as I continue learning.
 
+---
 
-📁 Current Challenges
+## 📁 Current Challenges
 
 - `AVeryBigSum.js`
 - `CompareTheTriplets.js`
@@ -15,12 +16,15 @@ It's a work in progress — I’ll keep adding more solutions as I continue lear
 - `SolveMeFirst.js`
 - `Staircase.js` and `Staircase01–04.js` (pattern variations)
 
+---
 
-📌 Why I'm doing this
+## 📌 Why I'm doing this
 
 - To improve my JavaScript skills
 - To build confidence in solving algorithm problems
 - To track my learning progress
+
+---
 
 ## ✍️ About Me
 
